@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  PokemonTableView
 
-
 import UIKit
 
 @UIApplicationMain
